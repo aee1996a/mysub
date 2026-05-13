@@ -1101,6 +1101,7 @@ hysteria2://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@jp03.344233.cc:60000/?insecure=
 hysteria2://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@hyfnjp03.352343.cc:8080/?insecure=0&sni=hyfnjp03.352343.cc#%E6%97%A5%E6%9C%AC04j
 hysteria2://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@[2401:c080:1000:2fe2:5400:06ff:fe1b:65f0]:8080/?insecure=1&sni=2401:c080:1000:2fe2:5400:06ff:fe1b:65f0&obfs=salamander&obfs-password=ZTBjNDA0YTVhNTFkMzFlOQ==#IPv6%E6%97%A5%E6%9C%AC01ak
 hysteria2://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@[2401:c080:1000:2fcf:5400:06ff:fe1b:65ef]:8080/?insecure=1&sni=2401:c080:1000:2fcf:5400:06ff:fe1b:65ef#IPv6%E6%97%A5%E6%9C%AC02ak
+hysteria2://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@1jp001.476579.xyz:8080/?insecure=0&sni=1jp001.476579.xyz#%E6%97%A5%E6%9C%AC03aws
 hysteria2://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@[2001:19f0:7001:50dd:5400:06ff:fe1b:65ee]:8080/?insecure=1&sni=2001:19f0:7001:50dd:5400:06ff:fe1b:65ee#IPv6%E6%97%A5%E6%9C%AC05ak
 hysteria2://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@[2001:19f0:7001:2846:5400:06ff:fe1b:65ec]:8080/?insecure=1&sni=2001:19f0:7001:2846:5400:06ff:fe1b:65ec#IPv6%E6%97%A5%E6%9C%AC06ak
 hysteria2://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@jp06.476579.xyz:8080/?insecure=0&sni=jp06.476579.xyz#%E6%97%A5%E6%9C%AC07aws
@@ -1156,6 +1157,7 @@ hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@jp03.344233.cc:60000/?insecure=
 hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@hyfnjp03.352343.cc:8080/?insecure=0&sni=hyfnjp03.352343.cc#%E6%97%A5%E6%9C%AC04j
 hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@[2401:c080:1000:2fe2:5400:06ff:fe1b:65f0]:8080/?insecure=1&sni=2401:c080:1000:2fe2:5400:06ff:fe1b:65f0&obfs=salamander&obfs-password=ZTBjNDA0YTVhNTFkMzFlOQ==#IPv6%E6%97%A5%E6%9C%AC01ak
 hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@[2401:c080:1000:2fcf:5400:06ff:fe1b:65ef]:8080/?insecure=1&sni=2401:c080:1000:2fcf:5400:06ff:fe1b:65ef#IPv6%E6%97%A5%E6%9C%AC02ak
+hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@1jp001.476579.xyz:8080/?insecure=0&sni=1jp001.476579.xyz#%E6%97%A5%E6%9C%AC03aws
 hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@[2001:19f0:7001:50dd:5400:06ff:fe1b:65ee]:8080/?insecure=1&sni=2001:19f0:7001:50dd:5400:06ff:fe1b:65ee#IPv6%E6%97%A5%E6%9C%AC05ak
 hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@[2001:19f0:7001:2846:5400:06ff:fe1b:65ec]:8080/?insecure=1&sni=2001:19f0:7001:2846:5400:06ff:fe1b:65ec#IPv6%E6%97%A5%E6%9C%AC06ak
 hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@jp06.476579.xyz:8080/?insecure=0&sni=jp06.476579.xyz#%E6%97%A5%E6%9C%AC07aws
